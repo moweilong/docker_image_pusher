@@ -11,3 +11,5 @@ quay.io/coreos/etcd:v3.5.13
 jaegertracing/all-in-one:1.52
 wurstmeister/zookeeper
 wurstmeister/kafka
+flannel/flannel:v0.25.4
+flannel/flannel-cni-plugin:v1.5.1-flannel1
