@@ -18,3 +18,4 @@ flannel/flannel-cni-plugin:v1.5.1-flannel1
 burlyluo/nettoolbox
 # nettool 附带网络工具，部署了nginx监听80端口，默认返回主机名和ip
 quay.io/weiluo/nettool
+kindest/node:v1.23.4
