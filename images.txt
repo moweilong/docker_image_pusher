@@ -23,3 +23,4 @@ burlyluo/registry:2
 vyos/vyos:1.2.8
 burlyluo/vyos:1.4.7
 burlyluo/vyos:1.4.9
+mattermost/focalboard:7.10.6
