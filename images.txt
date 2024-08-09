@@ -25,3 +25,10 @@ burlyluo/vyos:1.4.7
 burlyluo/vyos:1.4.9
 alpine:3.11
 quay.io/opstree/redis:v7.0.5
+apache/skywalking-go:0.4.0-go1.16
+apache/skywalking-go:0.4.0-go1.17
+apache/skywalking-go:0.4.0-go1.18
+apache/skywalking-go:0.4.0-go1.19
+apache/skywalking-go:0.4.0-go1.20
+apache/skywalking-go:0.4.0-go1.21
+apache/skywalking-go:0.4.0-go1.22
