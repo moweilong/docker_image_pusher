@@ -39,3 +39,4 @@ golang:1.20
 golang:1.19
 golang:1.18
 centos:centos8
+jaegertracing/all-in-one:1.62
