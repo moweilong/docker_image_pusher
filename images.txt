@@ -40,3 +40,4 @@ golang:1.19
 golang:1.18
 centos:centos8
 xuxueli/xxl-job-admin:2.1.2
+bitnami/minio:2024.11.7
