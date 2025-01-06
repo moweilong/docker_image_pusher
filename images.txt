@@ -42,3 +42,6 @@ centos:centos8
 xuxueli/xxl-job-admin:2.1.2
 bitnami/minio:2024.11.7
 cloudflare/cloudflared:2024.11.1
+tduckcloud/tduck-report-front:latest
+tduckcloud/tduck-report-platform:latest
+mongo:4.4
