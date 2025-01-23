@@ -45,3 +45,4 @@ cloudflare/cloudflared:2024.11.1
 tduckcloud/tduck-report-front:latest
 tduckcloud/tduck-report-platform:latest
 mongo:4.4
+mcr.microsoft.com/devcontainers/go:1.23-bookworm
